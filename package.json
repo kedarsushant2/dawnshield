@@ -1,0 +1,14 @@
+{
+  "name": "dawnshield",
+  "version": "1.0.0",
+  "description": "A decentralized application for DAWN Black Box",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
